@@ -1,0 +1,232 @@
+@charset "utf-8";
+
+
+@media screen and (max-width:1280px) {
+	
+	header .nav{padding-left: 0;}
+	header .nav li{margin: 0 ;float: left;}
+	.banner .dingwei{top: 177px;left: 100px;}
+	.banner h1{width: 500px;height: 110px;padding:20px 25px;font:42px/58px arial;color: white;}
+	.single .right{float: left;}
+	
+	.contact .inner{width: 80%;}
+	.contact .left{width: 50%;float: left;text-align: left;}
+	.contact .right{width: 50%;float: right;text-align: left;}
+	
+	.account .inner{width: 80%;}
+	.account .left{width: 50%;float: left;text-align: left;}
+	.account .right{width: 50%;float: right;text-align: left;}
+	.account .btn{margin-left: 151px;}
+	
+	
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width:1024px) {
+.page3 .left{float: none;width: 100%;}
+.page3  dl {float: none;width: 88%;}
+footer .f_a ,footer .f_b ,footer .f_c ,footer .f_d{float: none;width: 100%;}
+.single{width: 90%;margin: 0 auto;padding: 100px 0;}
+.single .left{float: none;}
+.single .right{float: none;}
+
+.single .shangpin .pic{float: left;width: 35%;}
+.single .shangpin .text{float: left;width: 51%;padding-left:10px ;}
+.single .shangpin .big_pic img{width: 100%;height: 100%;}
+
+
+.single .shangpin ul{width: 100%;}
+.single .shangpin li{width: 20.4%;}
+.single .shangpin li img{width:100%;height: 100%;}
+
+
+
+
+
+
+}
+
+
+
+
+@media screen and (max-width:980px) {
+	
+	
+	.logo{width: 100px;margin:0 auto;padding-top: 14px;}
+	header .right .top form{width: 100px;}
+	header .right .top .search{width: 50px;}
+	header .nav{padding-left: 0;}
+	header .nav li{margin: 0 ;float: left;}
+	header .nav li a{font-size: 13px;padding: 0 5px;}
+	header .nav .more .big_more{background-position: 50px 28px;}
+	header .right .top .account{margin-right: 0px;}
+	.banner .dingwei{top: 120px;left: 80px;}
+	.banner h1{width: 400px;height: 90px;padding:20px 25px;font:35px/50px arial;color: white;}
+	.banner .your_sport li{width: 25%;}
+	.banner .your_sport li:nth-child(5){display: none;}
+	.page1 li{float: none;width: 100%;}
+	.page1 .text{padding-top:30px}
+	.pro-main ul{width: 760px;margin: 0 auto;}
+	.pro-main li{margin: 0;width: 33.3%;}
+	
+	
+	
+	
+	
+}
+
+
+
+
+@media screen and (max-width:768px) {
+	header .bot .youbian a{font-size: 15px;background-position-x: 79px;}
+	.banner .dingwei{top: 56px;left: 56px;}
+	.banner h1{width: 348px;height: 90px;padding:10px 15px;font:30px/47px arial;color: white;}
+	.banner .dingwei a{width: 160px;height: 57px;font: 17px/57px arial;}
+	.banner .dingwei .shop2{width: 100px;}
+	.banner .your_sport li{width: 33.3%;}
+	.banner .your_sport li:nth-child(4){display: none;}
+	.page1 h2 a{font:normal 15px/15px arial;}
+	.page1 p{font: 29px/50px arial;}
+	
+	.page2 ul{text-align: center;}
+	.page2 li{float: none;display: inline-block;width: 100%;}
+	.pro-main ul{width:450px;margin: 0 auto;}
+	.pro-main li{width: 40%;margin: 5%;}
+	
+	.contact .inner{width: 80%;}
+	.contact .left{width: 100%;float: none;text-align: left;}
+	.contact .right{width: 100%;float: none;text-align: left;}
+	.contact .left p{width: 100%;}
+	
+	.account .inner{width: 80%;}
+	.account .left{width: 100%;float: none;text-align: left;}
+	.account .right{width: 100%;float: none;text-align: left;}
+	.account .right .pic{width: 280px;height: 180px;position: relative;margin: 50px 0px 20px 140px;}
+	.account .btn{margin-left: 151px;}
+
+	.register .inner{width: 100%;text-align: center;}
+	.register .inner form{width: 90%;display: inline-block;padding: 0;}
+	
+	
+	
+	
+	
+	
+	
+	
+	}
+	
+	
+@media screen and (max-width:640px) {
+	.logo{padding-top:30px;width: 100%;}
+	header .nav{width: 80px;height: 60px;}
+	header .nav .menu{display: block;}
+	header .nav li:nth-child(2){display: none;}
+	header .nav li:nth-child(3){display: none;}
+	header .nav li:nth-child(4){display: none;}
+	header .nav li:nth-child(5){display: none;}
+	header .nav li:nth-child(6){display: none;}
+	header .nav li:nth-child(7){display: none;}
+	
+	
+	
+	.banner .dingwei{top: 56px;left: 56px;}
+	.banner h1{width: 348px;height: 90px;padding:10px 15px;font:30px/47px arial;color: white;}
+	.banner .dingwei a{width: 160px;height: 57px;font: 17px/57px arial;}
+	.banner .dingwei .shop2{width: 100px;}
+	.banner .your_sport li{width: 50%;}
+	.banner .your_sport li:nth-child(3){display: none;}
+	.page1 h2 a{font:normal 13px/15px arial;}
+	.page1 p{font: 19px/15px arial;}
+	.page1 span a{font:bold 13px/20px arial;}
+
+	
+	.single .shangpin .pic{float: none;width: 70%;}
+	.single .shangpin .text{float: none;width: 97%;padding-left:10px ;}
+
+	
+	
+	
+	
+	
+	
+	
+	
+	}
+	
+	
+	
+@media screen and (max-width:480px) {
+	header .right .top .account{width: auto;font-size: 15px;margin-right: 15px;}	
+	header .right .top .shop{width: auto;font-size: 15px;padding: 0;}
+	header .right .top .account{margin-right: 77px;}
+	header .right .bot .youbian a{margin-right: 0;}
+	header .right .top .search{right: 21px;}
+	header .nav{width: 40px;}
+	header .right .top form{width: 0;}
+	header .nav .menu a{margin: 10px 0 0 0;}
+	header .right .top .btn{margin: 0;}
+	.banner .dingwei{top: 48px;left: 57px;}
+	.banner h1{width: 198px;height: 50px;padding:10px 15px;font:18px/25px arial;color: white;}
+	.banner .dingwei a{width: 113px;height: 41px;font: 13px/41px arial;}
+	.banner .dingwei .shop2{width: 60px;}
+	.page1 .pic{width: 50%;}
+	.page1{padding:40px 20px}
+	
+	.page1 h2 a{font:normal 13px/14px arial;}
+	.page1 p{font: 15px/15px arial;}
+	.page1 span a{font: 13px/20px arial;}
+	.page3  dl {padding: 20px 20px 20px 15px;color: #CCCCCC;float: left;width: 93%;}
+	
+	.pro-main ul{width:100%;margin: 0 auto;}
+	.pro-main li{width: 70%;margin:0 15%;float: none;}
+
+		.account .right .pic{width: 280px;height: 180px;position: relative;margin: 50px 0px 20px 30px;}
+	.account .btn{margin-left: 71px;}
+
+	
+	
+	
+	
+	
+	
+	}
+	
+
+	
+	
+	
+	
+@media screen and (max-width:320px) {
+	.banner .dingwei{top: 11px;left: 17px;width: 50%;}
+	.banner h1{width: 100%;height: 50px;padding:5px 8px;font:13px/25px arial;color: white;}
+	.banner .dingwei a{width: 30%;height: 41px;font: 12px/41px arial;}
+	.banner .dingwei .shop2{width: 20%;}
+	.account .right .pic{width: 280px;height: 180px;position: relative;margin: 50px 0px 20px -10px;}
+	.account .btn{margin-left: 21px;}
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	}
+	
+	
+	
+	
+	
+	
+	
+	

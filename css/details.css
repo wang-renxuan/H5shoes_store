@@ -1,0 +1,49 @@
+.p_main{background: #F2F2F2;}
+.p_main .inner{width:1210px;height:490px;margin:0 auto;background:white;border-bottom:1px solid #cccccc;margin-bottom: 10px;}
+h3{height:45px;color: #666;width:1210px;margin:0 auto;}
+h3 span{font: 14px/45px "宋体";}
+p{color: #626262;}
+.p_main .left{float:left;}
+
+
+.p_main .left .zoom{width:340px;height:390px;position: relative;top:0;left:0;}
+.p_main .left .zoom_small{width:340px;height:390px;position: absolute;top:0;left:0;background: blue;border:1px solid #cccccc;}
+.p_main .left .zoom_small img{width:100%;}
+.p_main .left .zoom span{width:200px;height:200px;position: absolute;top:0;left:0;background: deepskyblue;opacity:.5;display: none;cursor: move;}
+.p_main .left .zoom_big{width:400px;height:400px;position: absolute;top:0;left:350px;background: red;display: none;overflow: hidden;border:1px solid #cccccc;}
+.p_main .left .zoom_big img{position: absolute;}
+
+
+
+.p_main .left .thumb{width:340px;position: relative;}
+.p_main .left .thumb .pre{width:20px;height:20px;position: absolute;top:44px;left:8px;}
+.p_main .left .thumb .next{width:20px;height:20px;position: absolute;top:44px;left:311px;}
+
+.p_main .left .thumb ul{position: absolute;top:25px;left:30px;}
+.p_main .left .thumb li{width:50px;height:50px;float:left;margin-left: 4px;border:1px solid #ffffff;}
+.p_main .left .thumb .th_ac{border:1px solid #c81623;}
+.p_main .left .thumb li img{width:100%;height:100%;}
+
+.p_main .red{color:#c81623;}
+.p_main .mid{width:600px;float: left;padding-left:20px;}
+.p_main .mid h4{padding-top:12px;}
+.p_main .mid p{font:14px/25px "微软雅黑"}
+.p_main .mid .price{height:50px;background:#F7F7F7;}
+.p_main .mid .price p{font:14px/50px "微软雅黑";float: left;}
+.p_main .mid .eva{float: right;margin-top: -17px;}
+.p_main .mid .serve{height:130px;border-bottom:1px dashed #ccc;}
+.p_main .mid .serve p{float:left;line-height:45px;}
+.p_main .mid dl{color:#666666;height: 177px;}
+.p_main .mid dt{;padding-top:10px;height: 100px;float: left;}
+.p_main .mid dd{float:left;padding:5px;border:1px solid #CCCCCC;margin-left:15px;margin-top:15px;font-size: 15px;cursor: pointer;}
+.p_main .mid .ac_click{border:1px solid #c81623;}
+.p_main .mid .ac{border:1px solid #c81623;}
+.p_main .mid form{position: relative;}
+#numCar{width: 34px;height: 34px;border: 1px solid #CCCCCC;line-height: 35px;text-align: center;margin-right: 15px;}
+.p_main .mid button{padding:0;cursor: pointer;}
+.p_main .right{padding-top:60px;padding-left:23px;float: left;}
+#fittings{height: 308px;border-top: 2px solid #999999;width:1210px;margin:0 auto;background:white;}
+#fittings .title{height:53px;background: #f7f7f7;border-bottom: 1px solid #dcdcdc;}
+#fittings .title button{height:53px;border:none;background: #f7f7f7;margin-right: 15px;padding:0 10px;color:#6C6960;font-weight:bolder;font-size:16px;cursor: pointer;}
+#fittings .title .ac{height:60px;border-top:3px solid #c81623;background: #f7f7f7;color:#c81623;margin-top:-5px;}
+#fittings .main{padding-left: 30px;}

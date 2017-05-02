@@ -1,0 +1,42 @@
+
+
+.out{background: #E6E6E6;width: 100%;}
+.single{width: 1200px;margin: 0 auto;padding: 100px 0;}
+.single .left{float: left;}
+.single .right{float: right;}
+
+
+
+
+
+.single .shangpin .pic{background: #FFFFFF;padding: 10px;}
+.single .shangpin .big_pic{border: 1px solid #d1cfcf;}
+.single .shangpin .big_pic img{width: 333px; height: 445px;}
+.single .shangpin ul{padding-top: 10px;}
+.single .shangpin li{border: 1px solid #d1cfcf;float: left;}
+.single .shangpin li:nth-child(2){margin-left: 8px;}
+.single .shangpin li:nth-child(3){margin-left: 8px;}
+.single .shangpin li:nth-child(4){margin-left: 8px;}
+.single .shangpin li img{width: 76px;height: 106px;}
+.single .shangpin .pic{float: left;}
+.single .shangpin .text{float: left;width: 486px;padding-left:10px ;}
+.single .shangpin h2{color: #747281;font: bold 20px/50px arial;}
+.single .shangpin p{color: #747281;font: 16px/27px arial;}
+.single .shangpin .price{color:#d2232a ;font: bold 40px/100px arial;display: block;}
+.single .shangpin .options{color:#d2232a ;font: 25px/50px arial;display: block;}
+.single .shangpin .xuanze{float: left;margin-left: 10px;font: 13px/15px arial;margin-top: 4px;}
+.single .shangpin form{float: left;}
+.single select{color: black;background: white url(../images/xiajiantou_07.jpg) no-repeat 65px 8px;width: 82px;}
+
+.single .btn{margin-top: 70px;}
+.single .btn a{margin-top: 70px;width: 178px;height: 52px;line-height: 52px;text-align: center;font-size: 22px;background: #d2232a;transition: all 0.3s;display: block;}
+.single .btn a:hover{background: #007FFF;}
+
+
+
+.single .right dl{width: 243px;padding-bottom: 20px;}
+.single .right dt{font-size: 1.5em;color: black;border-bottom:1px solid #c5933d ;line-height: 43px;padding-left: 12px;}
+#duigou{font: bold 1em/1.5em arial;color: black;background: url(../images/hfk_03.jpg) no-repeat  0 5px ;padding-left:30px;margin-top: 20px;margin-left: 20px;}
+
+
+

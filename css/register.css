@@ -1,0 +1,10 @@
+.register{background: #E6E6E6;width: 100%;}
+.register .inner{width: 1200px;margin: 0 auto;padding: 100px 0;text-align: center;}
+.register h2{margin: 54px auto;font: 37px/40px arial;}
+
+
+
+.register form{width: 50%;text-align: left;padding-left: 50px;}
+.register form h3{font: normal 21px/55px arial;}
+.register form input{height: 48px;width: 100%;}
+#send{background: #d2232a;margin-top: 20px;cursor: pointer;font-size: 17px;color: white;}

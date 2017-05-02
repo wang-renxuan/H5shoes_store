@@ -1,0 +1,18 @@
+
+.errBox{z-index:30;max-width: 300px;background: #000;display: none;position: absolute;height:70px;line-height: 70px;text-align: center;opacity: .5;color:white;padding:10px;border-radius: 7px;}
+
+/*模态层和登录弹框*/
+*{margin:0;padding:0;}
+
+a{text-decoration: none;font-size:25px;position: absolute;top:11px;right: 10px;color: white;}
+.model{width:100%;height:100%;background-color:rgba(0,0,0,0.2);position: fixed;z-index: 10; top:0;left:0;transition: all 1s;}
+.login{width:400px;height:259px;position: absolute;text-align:center;z-index: 20;background: white;padding-top:10px;background: #D9D8C3;}
+h4{background: #55A0B7;height:50px;line-height: 50px;padding-left:10px;margin-bottom: 50px;text-align: left;
+    color: #fff;cursor:move;color: white;}
+.model p{margin-bottom:5px;color:white;}
+input{height: 20px;}
+
+.model button{padding: 5px;}
+.conf{padding-top:20px;}
+.model button{border-radius: 0;box-shadow: none;background: #55A0B7;color: white;border: none;font-size: 15px;cursor:pointer;}
+

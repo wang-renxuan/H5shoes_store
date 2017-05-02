@@ -1,0 +1,26 @@
+.account{background: #E6E6E6;width: 100%;}
+.account .inner{width: 1200px;margin: 0 auto;padding: 100px 0;text-align: center;}
+.account h2{margin: 54px auto;font: 37px/40px arial;}
+
+
+
+.account .left{width: 50%;float: left;text-align: left;}
+.account .left h3{font: normal 21px/55px arial;}
+.account .left input{height: 48px;width: 100%;}
+#send{background: #d2232a;margin-top: 20px;cursor: pointer;font-size: 17px;color: white;}
+
+.account .right{width: 50%;float: right;}
+.account .right .pic{width: 280px;height: 180px;position: relative;margin: 50px 0px 20px 140px;}
+.account .pic_inner{position: absolute;bottom: 0;left: 0;}
+.account .pic_inner img{width: 218px;}
+.account .jiaobiao {position: absolute;top: 0;right: 0;border: 1px solid #d2232a;border-radius: 50%;background: white;width: 80px;height: 80px;text-align: center;}
+.account .jiaobiao p{font: bold 20px/42px arial;}
+.account .jiaobiao span{font: 15px/14px arial;color: #d2232a;}
+
+.account .btn{margin-top: 30px;display: inline-block;}
+.account .btn a{margin-top: 30px;width: 178px;height: 52px;line-height: 52px;text-align: center;font-size: 17px;background: #d2232a;transition: all 0.3s;display: inline-block;color: white;}
+.account .btn a:hover{background: #007FFF;}
+
+
+
+
